@@ -1,4 +1,4 @@
-# Lexora API
+# Nest API with authorization
 
 ## Технології проекту
 
